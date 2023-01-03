@@ -1,4 +1,4 @@
-# MachFailure
+# Machine Failure Detection
 This is a comparative analysis of Machine Learning and Deep Learning approach on working with data with high class imbalance.  The domain chosen here is to predict "Machine Failure" leading to successful Predictive Preventive Maintenance
 
 The Dataset is taken from [UCI-Machine Learning Depository](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset#)
