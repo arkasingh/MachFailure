@@ -28,11 +28,15 @@ The MLP network weights trained with the GAN samples can be found in the file [*
 ### Results and Conclusions
 *Classification Results with Support Vector Machine*
 
-<img src="https://user-images.githubusercontent.com/110922376/210345760-607b4406-5e47-4449-a334-8afa953fd440.png" width="600" height="400">
+![image](https://user-images.githubusercontent.com/110922376/210347487-2c64a7c0-71bb-4a1b-81d5-398b4e06c65d.png)
+
+<img src="https://user-images.githubusercontent.com/110922376/210347487-2c64a7c0-71bb-4a1b-81d5-398b4e06c65d.png" width="600" height="400">
 
 *Classification Results with Multi layer Perceptron*
 
-<img src="https://user-images.githubusercontent.com/110922376/210345899-5bab1752-23ad-4105-b2d7-ecc525110bca.png" width="600" height="400">
+![image](https://user-images.githubusercontent.com/110922376/210347565-0230e68f-2d0a-47ad-be2f-3889afb7b4d8.png)
+
+<img src="https://user-images.githubusercontent.com/110922376/210347565-0230e68f-2d0a-47ad-be2f-3889afb7b4d8.png" width="600" height="400">
 
 
 *MLP classified better than SVM*
