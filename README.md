@@ -30,4 +30,13 @@ The MLP network weights trained with the GAN samples can be found in the file [*
 
 *MLP performed best when trained with unsampled imbalanced data*
 
-*Considering all the metrics, GAN proved to be the best sampling method*
+*Considering all the metrics (recall, precision , f1-score), GAN proved to be the best sampling method*
+
+*Classification Results with Support Vector Machine*
+![image](https://user-images.githubusercontent.com/110922376/210345760-607b4406-5e47-4449-a334-8afa953fd440.png)
+
+*Classification Results with Multi layer Perceptron*
+
+![image](https://user-images.githubusercontent.com/110922376/210345899-5bab1752-23ad-4105-b2d7-ecc525110bca.png)
+
+
