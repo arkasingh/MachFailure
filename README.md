@@ -28,7 +28,7 @@ The MLP network weights trained with the GAN samples can be found in the file [*
 ### Results and Conclusions
 *Classification Results with Support Vector Machine*
 ![image](https://user-images.githubusercontent.com/110922376/210345760-607b4406-5e47-4449-a334-8afa953fd440.png)
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/110922376/210345760-607b4406-5e47-4449-a334-8afa953fd440.png)" width="600">
+<img src="https://user-images.githubusercontent.com/110922376/210345760-607b4406-5e47-4449-a334-8afa953fd440.png" width="100" height="100">
 
 *Classification Results with Multi layer Perceptron*
 
