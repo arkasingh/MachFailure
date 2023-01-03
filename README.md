@@ -5,7 +5,7 @@ The Dataset is taken from [UCI-Machine Learning Depository](https://archive.ics.
 
 The original credit : Stephan Matzka, School of Engineering - Technology and Life, Hochschule fÃ¼r Technik und Wirtschaft Berlin, 12459 Berlin, Germany, stephan.matzka'@'htw-berlin.de
 
-The dataset [ai4i2020.csv](https://github.com/arkasingh/MachFailure/blob/main/ai4i2020.csv) consists of 10,000 data points stored as rows with 14 features in columns.
+The dataset [*ai4i2020.csv*](https://github.com/arkasingh/MachFailure/blob/main/ai4i2020.csv) consists of 10,000 data points stored as rows with 14 features in columns.
 
 ### Methods Deployed to handle the Class Imbalance
 
@@ -21,6 +21,6 @@ The dataset [ai4i2020.csv](https://github.com/arkasingh/MachFailure/blob/main/ai
 
 ### Model Weights
 
-The GAN architecture consists of 2 networks - Generator and Discriminator. The training weights for the same are given in the files [gan_discriminator_model.h5](https://github.com/arkasingh/MachFailure/blob/main/gan_discriminator_model.h5) & [*gan_generator_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_generator_model.h5). The fineal GAN model weights are [gan_final_model.h5](https://github.com/arkasingh/MachFailure/blob/main/gan_final_model.h5).
+The GAN architecture consists of 2 networks - Generator and Discriminator. The training weights for the same are given in the files [*gan_discriminator_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_discriminator_model.h5) & [*gan_generator_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_generator_model.h5). The fineal GAN model weights are [*gan_final_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_final_model.h5).
 
-The MLP network weights trained with the GAN samples can be found in the file [mlp_gan_model.h5](https://github.com/arkasingh/MachFailure/blob/main/mlp_gan_model.h5)
+The MLP network weights trained with the GAN samples can be found in the file [*mlp_gan_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/mlp_gan_model.h5)
