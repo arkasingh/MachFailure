@@ -7,17 +7,19 @@ The original credit : Stephan Matzka, School of Engineering - Technology and Lif
 
 The dataset [ai4i2020.csv](https://github.com/arkasingh/MachFailure/blob/main/ai4i2020.csv) consists of 10,000 data points stored as rows with 14 features in columns.
 
-Methods Deployed to handle Class Imbalance:
+## Methods Deployed to handle the Class Imbalance:
 
 1. Under Sampling
 2. Over Sampling
 3. Machine Learning - Synthetic Minority Oversampling Technique (SMOTE)
 4. Deep Learning - Generative Adversarial Network (GAN)
 
-Methods Deployed to solve Predictive Preventive Maintenance:
+## Methods Deployed to solve Predictive Preventive Maintenance:
 
 1. Machine Learning - Linear Support Vector Machine (SVM)
 2. Deep Learning - Multi Layer Perceptron (MLP)
+
+### Model Weights
 
 The GAN architecture consists of 2 networks - Generator and Discriminator. The training weights for the same are given in the files [gan_discriminator_model.h5](https://github.com/arkasingh/MachFailure/blob/main/gan_discriminator_model.h5) & [*gan_generator_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_generator_model.h5). The fineal GAN model weights are [gan_final_model.h5](https://github.com/arkasingh/MachFailure/blob/main/gan_final_model.h5).
 
