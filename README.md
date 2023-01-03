@@ -25,6 +25,6 @@ The GAN architecture consists of 2 networks - Generator and Discriminator. The t
 
 The MLP network weights trained with the GAN samples can be found in the file [*mlp_gan_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/mlp_gan_model.h5)
 
-####MLP classified better than SVM
-![image](https://user-images.githubusercontent.com/110922376/210345275-03cbd94f-dd57-49b4-aac4-400d3f46872a.png)
-
+#### MLP classified better than SVM
+#### MLP performed best when trained with unsampled imbalanced data
+#### Considering all the metrics, GAN proved to be the best sampling method
