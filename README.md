@@ -27,5 +27,7 @@ The MLP network weights trained with the GAN samples can be found in the file [*
 
 ### Conclusions
 *MLP classified better than SVM*
+
 *MLP performed best when trained with unsampled imbalanced data*
+
 *Considering all the metrics, GAN proved to be the best sampling method*
