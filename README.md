@@ -19,3 +19,5 @@ Methods Deployed to solve Predictive Preventive Maintenance:
 
 1. Machine Learning (Linear SVM)
 2. Deep Learning (Multi Layer Perceptron - MLP)
+
+The GAN architecture consists of 2 networks - Generator and Discriminator. The training weights for the same are given in the files *gan_discriminator_model.h5* & [*gan_generator_model.h5*](https://github.com/arkasingh/MachFailure/blob/main/gan_generator_model.h5)
